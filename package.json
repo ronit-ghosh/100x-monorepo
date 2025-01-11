@@ -1,6 +1,6 @@
 {
-  "name": "100x-monorepo",
-  "private": true,
+  "name": "@ronit-ghosh/100x-monorepo",
+  "version": "0.1.0",
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
